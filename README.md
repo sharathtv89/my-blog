@@ -1,1 +1,1 @@
-A Blog built using React.js as a learning practice. Course referred here https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/create-a-full-stack-website?autoplay=true&resume=false
+Blog website built using React.js as a learning practice. Course referred here https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/create-a-full-stack-website?autoplay=true&resume=false
